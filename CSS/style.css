@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+body{
+    margin: 0;
+    background-color: black;
+}
+.img_principal{
+    width: 900px;
+    height: 650px;
+    float: right;
+    display: flex;
+    position: relative;
+}
+
+#img{
+    width: 900px;
+    height: 650px;
+    padding-left:0; 
+}
+
+.contents{
+    width: 680px;
+    height: 650px;
+    background-color: black;
+    float: left;
+    display: block;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.img-logo{
+    width: 350px;
+    height: 150px;
+    background-color: black;
+}
+
+#logo{
+    width: 100%;
+    height: 150px;
+}
+
+.paragraphs{
+    background-color: black;
+    width: 550px;
+    height: 160px;
+    margin-top: 10px;
+}
+
+#p1{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+    color: rgb(2, 179, 2);
+}
+
+#p2{
+    font-family:'Alfa Slab One', cursive ;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.815);
+}
+
+#p3{
+    font-size: 12px;
+    font-family: 'Alfa Slab One', cursive;
+    color: rgb(163, 158, 158);
+    display: flex;
+}
+
+legend{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(172, 172, 172);
+    margin-top: 19px;
+}
+
+.form{
+    background-color: rgba(0, 0, 0, 0);
+    width: 770px;
+    height: 100px;
+}
+
+.btn{
+    margin-top: 10px;
+    float: right;
+    display: flex;
+}
+
+#botão{
+    background-color: blueviolet;
+    border-radius: 5px;
+    width: 40px;
+    cursor: pointer;
+}
+
+#input{
+    margin-top: 10px;
+    width: 722px ;
+    height: 25px ;
+}
+
+.link{
+    display: flex;
+}
+
+.img-arrow{
+    display: flex;
+}
+
+#arrow-right{
+    background-color: rgb(110, 7, 206);    
+    margin-left: 155px;
+    margin-top: -27px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#link-img{
+    margin-top: -10px;
+}
+a{
+    color: rgb(123, 23, 218);
+    font-family: 'Alfa Slab One';
+    font-size: 13px;
+    display: inline-block;
+}
+
+.img-xicara{
+    height: 200px;
+    display: flex;
+}
+
+#café{
+    width: 20px;
+    height: 25px;
+    margin-left: 236px;
+    margin-top: -33px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
