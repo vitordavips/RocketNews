@@ -19,13 +19,12 @@ body{
 }
 
 .contents{
-    width: 680px;
-    height: 650px;
+    width: 48%;
+    height: 95%;
     background-color: black;
-    float: left;
     display: block;
     position: absolute;
-    margin-left: 20px;
+    padding-left: 17px;
 }
 
 .img-logo{
@@ -41,8 +40,8 @@ body{
 
 .paragraphs{
     background-color: black;
-    width: 550px;
-    height: 160px;
+    width: 95%;
+    height: 25%;
     margin-top: 10px;
 }
 
@@ -86,13 +85,13 @@ legend{
 #botão{
     background-color: blueviolet;
     border-radius: 5px;
-    width: 40px;
+    width: 50px;
     cursor: pointer;
 }
 
 #input{
     margin-top: 10px;
-    width: 722px ;
+    width: 60rem;
     height: 25px ;
 }
 
@@ -129,8 +128,6 @@ a{
 #café{
     width: 20px;
     height: 25px;
-    margin-left: 236px;
-    margin-top: -33px;
 }
 
 
