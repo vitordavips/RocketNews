@@ -6,21 +6,20 @@ body{
 }
 .img_principal{
     width: 900px;
-    height: 650px;
+    height: 767px;
     float: right;
     display: flex;
-    position: relative;
 }
 
 #img{
     width: 900px;
-    height: 650px;
+    height: 100%;
     padding-left:0; 
 }
 
 .contents{
     width: 48%;
-    height: 95%;
+    height: 805px;
     background-color: black;
     display: block;
     position: absolute;
@@ -39,10 +38,7 @@ body{
 }
 
 .paragraphs{
-    background-color: black;
-    width: 95%;
-    height: 25%;
-    margin-top: 10px;
+    background-color: blac;
 }
 
 #p1{
@@ -67,32 +63,34 @@ body{
 legend{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(172, 172, 172);
-    margin-top: 19px;
 }
 
 .form{
     background-color: rgba(0, 0, 0, 0);
-    width: 770px;
+    width: 125%;
     height: 100px;
+    display: flex;
 }
 
 .btn{
-    margin-top: 10px;
-    float: right;
-    display: flex;
+    width: 300px; 
+    margin-left: 5px;
 }
 
 #botão{
     background-color: blueviolet;
     border-radius: 5px;
-    width: 50px;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
     cursor: pointer;
 }
 
 #input{
     margin-top: 10px;
-    width: 60rem;
-    height: 25px ;
+    width: 200rem;
+    height: 35px ;
+    box-shadow: 50px 5px 15px 6px;
 }
 
 .link{
@@ -121,7 +119,6 @@ a{
 }
 
 .img-xicara{
-    height: 200px;
     display: flex;
 }
 
